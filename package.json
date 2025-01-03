@@ -1,0 +1,16 @@
+{
+  "name": "ms-excel-clone-main",
+  "version": "1.0.0",
+  "description": "",
+  "main": "formula.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "test": "react-scripts test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react-scripts": "^5.0.1"
+  }
+}
